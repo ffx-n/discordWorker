@@ -5,7 +5,7 @@ import time
 try:
     auth = os.environ.get("auth")
     super_properties = os.environ.get("super")
-    cookies = os.environ.get("cookies")
+    cookies = {'__cfduid': 'd7620fa4faf230ef59c909ad4253cd29f1605346829', '_fbp': 'fb.1.1605365010427.787883345', '_ga': 'GA1.2.1155749774.1605365009', '_gid': 'GA1.2.2080419407.1607794052', 'locale': 'ru'}
 except:
     pass
 
